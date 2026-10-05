@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="student_poem">Кондратенко Павел ПИ-251\nЕсли б мишки были пчёлами,\nТо они бы нипочём\nНикогда и не подумали\nТак высоко строить дом.\nIf bears were bees\nThen they would not care\nNever thought\nBuilding a house so high!</string>
+</resources>
